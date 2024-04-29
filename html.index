@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Coffee Shop</title>
+</head>
+<body>
+    <div class="container">
+        <nav class="nav-bar">
+            <h1 class="title">CRAV<span>INGS</span></h1>
+            <p class="tagline">coffee || espresso || latte || cappuccino</p>
+            <ul class="menu">
+                <li><a href="#">HOME</a></li>
+                <li><a href="#">PRODUCTS</a></li>
+                <li><a href="#">SERVICES</a></li>
+                <li><a href="#">CONTACT</a></li>
+                <li><a href="#">ABOUT</a></li>
+            </ul>
+        </nav>
+        <div class="home">
+            <h1 class="title-1">
+                Good <span>coffee</span> will always <br /> find the audience
+            </h1>
+            <p>We provide a variety of unique and best coffees.</p>
+            <button type="button">Shop Now</button>
+        </div>
+    </div>
+</body>
+</html>
